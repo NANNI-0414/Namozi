@@ -2,7 +2,7 @@
 
 (1) 사용된 기술 스택: Developed with Unreal Engine 4
 
-(2) 프로젝트 설치 방법: 프로젝트에 첨부된 Namozi_20210922-arm64.apk 파일을 안드로이드 스마트폰에 다운로드 합니다.
+(2) 프로젝트 설치 방법: https://drive.google.com/file/d/1p-nj1wMFwrt-uvE7PZrAJcDHvg0k7Qgd/view?usp=sharing 링크에 접속하여 Namozi_20210922-arm64.apk 파일을 다운로드 받은 후, 안드로이드 스마트폰에 다운로드 합니다.
 
 (3) 프로젝트 사용법: 프로젝트에 첨부된 '나모지-설치및사용자메뉴얼' 참고
     
